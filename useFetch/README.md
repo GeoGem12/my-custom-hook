@@ -2,7 +2,7 @@
 
 The useFetch hook is a custom React hook that allows you to fetch data from a provided URL. This hook uses React's useState and useEffect hooks to manage the state of the fetched data.
 
-## Usage 
+## Use 
 
 ```
     import { useFetch } from "./useFetch";
